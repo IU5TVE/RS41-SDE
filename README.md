@@ -34,3 +34,5 @@ By modifying the `Save_File` variable, you can decide whether to save the radios
 By setting `Save_File` to `0`, the file will not be created. 
 
 By setting `Save_File` to `1`, the file will be generated in the path specified in the `File_Path` variable, overwriting the data received from the radiosonde each time.
+
+![](img/IMG_1526.jpeg)
