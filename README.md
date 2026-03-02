@@ -21,6 +21,7 @@ pip install pyserial
 #
 In order to retrieve data from the radiosonde, you need to use a USB TTL adapter connected to your PC. This allows the script to communicate correctly with the radiosonde and retrieve meteorological information.
 The image below shows the connection between the PC and the radiosonde via the adapter. 
+![](img/IMG_6671.png)
 
 # How to use
 The image shows the first lines of the script, where you can configure some settings. Here you can choose whether to save the extracted data to a .txt file, set the output file path, and enter the serial communication port of the USB-TTL adapter.
