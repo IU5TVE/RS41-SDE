@@ -39,4 +39,4 @@ By setting `Save_File` to `1`, the file will be generated in the path specified 
 
 Finally, you need to specify the serial communication port used to connect to the radiosonde and enter it in the PORT variable, for example COM3 on Windows or /dev/ttyUSB0 on Linux.
 
-![](img/IMG_1531.jpeg)
+![](img/IMG_1531.png)
