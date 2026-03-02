@@ -29,4 +29,8 @@ The image shows the first lines of the script, where you can configure some sett
 
 ![](img/settings.png)
 
-By modifying the `Save_File` variable, you can decide whether to save the radiosonde data altitude, temperature, humidity, and atmospheric pressure in a .txt file in addition to displaying it on the screen. By setting `Save_File` to `0`, the file will not be created. By setting `Save_File` to `1`, the file will be generated in the path specified in the `File_Path` variable, overwriting the data received from the radiosonde each time.
+By modifying the `Save_File` variable, you can decide whether to save the radiosonde data altitude, temperature, humidity, and atmospheric pressure in a .txt file in addition to displaying it on the screen. 
+
+By setting `Save_File` to `0`, the file will not be created. 
+
+By setting `Save_File` to `1`, the file will be generated in the path specified in the `File_Path` variable, overwriting the data received from the radiosonde each time.
