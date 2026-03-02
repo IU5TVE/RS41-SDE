@@ -20,4 +20,6 @@ pip install pyserial
 ```
 
 # How to use
+![](img/settings.png)
+
 The image shows the first lines of the script, where you can configure some settings. Here you can choose whether to save the extracted data to a .txt file, set the output file path, and enter the serial communication port of the USB-TTL adapter.
