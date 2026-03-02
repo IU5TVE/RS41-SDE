@@ -26,7 +26,9 @@ The image below shows the connection between the PC and the radiosonde via the a
 
 #
 
-There are two ways to install the script: by downloading the ZIP file directly from this GitHub repository and then extracting it to the desired folder, or by cloning the project via terminal. In the first case, simply click on Code and then on Download ZIP, unzip the archive, and access the project folder. Alternatively, you can download the entire repository by running the following command:
+There are two ways to install the script: by downloading the ZIP file directly from this GitHub repository and then extracting it to the desired folder, or by cloning the project via terminal. In the first case, simply click on `Code` and then on `Download ZIP`, unzip the archive, and access the project folder. 
+
+Alternatively, you must first install the Git package on your system and then run the following command: 
 ```bash
 https://github.com/IU5TVE/RS41-SDE.git
 ```
