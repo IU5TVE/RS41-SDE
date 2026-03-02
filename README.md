@@ -1,5 +1,5 @@
 # RS41-SDE Serial Data Extractor
-RS41-SDE is a script developed as part of the LuniSpace project, a school initiative carried out by the Licei Lunigianesi high school institute that aims to launch weather radiosondes together with real-time image transmission systems, as a simple solution to a practical need: obtaining and managing data from a radiosonde. It was created as part of a larger script that will be published shortly on my GitHub profile. 
+RS41-SDE is a script developed as part of the LuniSpace project, a school initiative carried out by the Licei Lunigianesi high school that aims to launch weather radiosondes together with real-time image transmission systems. It was created as a simple solution to a practical need: to obtain and manage data from a radiosonde. It was created as part of a larger script that will be published shortly on my GitHub profile. 
 
 This is a basic but functional tool that allows you to extract meteorological data serially from the radiosonde via a USB TTL adapter.
 
@@ -33,7 +33,7 @@ Alternatively, you must first install the Git package on your system and then ru
 https://github.com/IU5TVE/RS41-SDE.git
 ```
 
-# How to use
+# How to use it
 The image shows the first lines of the script, where you can configure some settings. Here you can choose whether to save the extracted data to a .txt file, set the output file path, and enter the serial communication port of the USB-TTL adapter.
 
 ![](img/settings.png)
