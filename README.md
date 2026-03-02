@@ -24,6 +24,11 @@ The image below shows the connection between the PC and the radiosonde via the a
 
 ![](img/IMG_6671.png)
 
+#
+
+There are two ways to install the script: by downloading the ZIP file directly from this GitHub repository and then extracting it to the desired folder, or by cloning the project via terminal. In the first case, simply click on Code and then on Download ZIP, unzip the archive, and access the project folder. Alternatively, you can download the entire repository by running the following command:
+
+
 # How to use
 The image shows the first lines of the script, where you can configure some settings. Here you can choose whether to save the extracted data to a .txt file, set the output file path, and enter the serial communication port of the USB-TTL adapter.
 
