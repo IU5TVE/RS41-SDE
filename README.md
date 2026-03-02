@@ -12,7 +12,7 @@ python --version
 ```
 If Python is not installed, you will need to download and install it from the official website: https://www.python.org/downloads/
 #
-Next, you need to install the `pip` library, Python's package manager, because it allows you to easily add all the necessary external libraries. In this case, in the next step, we will install “pyserial.” You can download it and find installation instructions here: https://pip.pypa.io/en/stable/installation/
+Next, you need to install the `pip` library, Python's package manager, because it allows you to easily add all the necessary external libraries. In this case, in the next step, we will install `pyserial`. You can download it and find installation instructions here: https://pip.pypa.io/en/stable/installation/
 #
 Next, you need to install the `pyserial` library, which allows the script to communicate with the radiosonde via the serial port. To install it, run the command:
 ```bash
